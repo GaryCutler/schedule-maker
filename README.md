@@ -6,7 +6,9 @@ Hear is a Photo of the website.
 ![title of photo](./img/Screenshot%202023-09-20%20at%207.03.32%20PM.png)
 ***
 # link to website and github
-
+[LINK TO website](https://github.com/Seanye333/Anime-Fusion)
 ***
-[LINK TO GITHUB](https://github.com/Seanye333/Anime-Fusion)
+[LINK TO GITHUB](https://github.com/GaryCutler/schedule-maker)
 ***
+# help
+the reason I have little commits is because I worked with a tutor and we didnt commit during the tutoring session. I also had to create a new repo because my old one didnt work.
