@@ -6,7 +6,7 @@ Hear is a Photo of the website.
 ![title of photo](./img/Screenshot%202023-09-20%20at%207.03.32%20PM.png)
 ***
 # link to website and github
-[LINK TO website](https://github.com/Seanye333/Anime-Fusion)
+[LINK TO website](https://garycutler.github.io/schedule-maker/)
 ***
 [LINK TO GITHUB](https://github.com/GaryCutler/schedule-maker)
 ***
